@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b573f7c-955d-4c72-a475-551dfac48837)
+![image](https://github.com/user-attachments/assets/b104a0f0-d334-47a9-852b-3d5fdd5e0ae5)
 
 # 🧥 FashionMNIST Classification with TensorFlow
 
